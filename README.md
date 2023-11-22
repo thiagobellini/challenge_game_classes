@@ -49,7 +49,7 @@ ENGLISH:
 
 # 3️⃣ Writing the classes of a Game
 
-**What should be used
+**What should be used**
 
 - Variables
 - Operators
@@ -72,7 +72,7 @@ in addition, it must have a method called attack which must meet the following r
 - where {type} must be concatenated with the type in the class property
 - and the {attack} must follow a different description depending on the type, following the table below:
 
-if wizard -> in the attack display (used magic)
+if mage -> in the attack display (used magic)
 if warrior -> in the attack display (used sword)
 if monk -> on attack display (used martial arts)
 if ninja -> on attack display (used shuriken)
