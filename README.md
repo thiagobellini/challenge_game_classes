@@ -25,10 +25,10 @@ além disso, deve ter um método chamado atacar que deve atender os seguientes r
 - aonde o {tipo} deve ser concatenando o tipo que está na propriedade da classe
 - e no {ataque} deve seguir uma descrição diferente conforme o tipo, seguindo a tabela abaixo:
 
-se mago -> no ataque exibir (usou magia)
-se guerreiro -> no ataque exibir (usou espada)
-se monge -> no ataque exibir (usou artes marciais)
-se ninja -> no ataque exibir (usou shuriken)
+se mago -> no ataque exibir (usou magia) </br>
+se guerreiro -> no ataque exibir (usou espada) </br>
+se monge -> no ataque exibir (usou artes marciais) </br>
+se ninja -> no ataque exibir (usou shuriken) </br>
 
 ## Saída
 
@@ -72,10 +72,10 @@ in addition, it must have a method called attack which must meet the following r
 - where {type} must be concatenated with the type in the class property
 - and the {attack} must follow a different description depending on the type, following the table below:
 
-if mage -> in the attack display (used magic)
-if warrior -> in the attack display (used sword)
-if monk -> on attack display (used martial arts)
-if ninja -> on attack display (used shuriken)
+if mage -> in the attack display (used magic) </br>
+if warrior -> in the attack display (used sword) </br>
+if monk -> on attack display (used martial arts) </br>
+if ninja -> on attack display (used shuriken) </br>
 
 ## Output
 
